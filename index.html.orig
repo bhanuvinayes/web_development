@@ -3,6 +3,10 @@
 	<title>Web Page</title>
 	<body>
 		<p>Welcome to this page.</p>
-		<p>This line is added bhanu</p>
+<<<<<<< HEAD
+		<p>This line is added by bhanu</p>
+=======
+		<p>This line is added by Vinay</p>
+>>>>>>> vinay
 	</body>
 </html>
